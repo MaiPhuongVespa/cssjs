@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2shZ5QR' target='_blank'><img src='http://sieuthivespa.com/wp-content/uploads/2017/06/vespa-banner.jpg' width='500px'/><br/>Showroom Vespa Trần Hưng Đạo </a>. LH PKD Phương : 0936062399. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2rPGHLA' target='_blank'><img src='http://sieuthivespa.com/wp-content/uploads/2017/06/Promotion-thang-6-Primavera.jpg' width='500px'/><br/>Showroom Vespa Trần Hưng Đạo </a>. LH PKD : 0936062399 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
